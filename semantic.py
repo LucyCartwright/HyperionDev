@@ -14,7 +14,7 @@ print("'banana' similarity to 'cat':", word3.similarity(word1))
 
 # Compare 'cat', 'apple', 'monkey', 'banana'
 print("\nComparing 'cat', 'apple, 'monkey', 'banana':\n")
-tokens = nlp('cat apple monkey banana ')
+tokens = nlp('cat apple monkey banana')
 for token1 in tokens:
     for token2 in tokens:
         print(token1.text, token2.text, token1.similarity(token2))
