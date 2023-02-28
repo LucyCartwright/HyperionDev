@@ -1,5 +1,4 @@
-# HyperionDev
-	Project submissions for HyperionDev bootcamp
+# HyperionDev (Project submissions for HyperionDev bootcamp)
 
 Project 38: Semantic Similarity (NLP)
 
